@@ -1,0 +1,80 @@
+{
+  "jobs": {
+    "1": {
+      "id": "1",
+      "title": "Write a haiku about devnet",
+      "desc": "Post one haiku in the demo thread",
+      "bounty_lamports": 50000000,
+      "assignee": null,
+      "ttl_seconds": 86400,
+      "status": "done",
+      "claimed_by": "AgentAlice1111111111111111111111111111111111",
+      "lease_until": "2026-10-02T08:38:44Z",
+      "result": "haiku: lamports fall like rain / a task claimed with one short lease / devnet pays in peace",
+      "payment": null,
+      "posted_by": "BJna6e6BRdQ6XALWhkYmKgn9egRrF4PYXW7QUH1ruTTQ",
+      "posted_at": "2026-10-02T07:38:12Z"
+    },
+    "2": {
+      "id": "2",
+      "title": "Sketch the logo for v2",
+      "desc": "Draw a rough logo concept",
+      "bounty_lamports": 120000000,
+      "assignee": "AgentBob1111111111111111111111111111111111",
+      "ttl_seconds": 86400,
+      "status": "open",
+      "claimed_by": null,
+      "lease_until": null,
+      "result": null,
+      "payment": null,
+      "posted_by": "BJna6e6BRdQ6XALWhkYmKgn9egRrF4PYXW7QUH1ruTTQ",
+      "posted_at": "2026-10-02T07:38:12Z"
+    },
+    "3": {
+      "id": "3",
+      "title": "Write a haiku about devnet",
+      "desc": "Post one haiku in the demo thread",
+      "bounty_lamports": 50000000,
+      "assignee": null,
+      "ttl_seconds": 86400,
+      "status": "open",
+      "claimed_by": null,
+      "lease_until": null,
+      "result": null,
+      "payment": null,
+      "posted_by": "BJna6e6BRdQ6XALWhkYmKgn9egRrF4PYXW7QUH1ruTTQ",
+      "posted_at": "2026-10-02T09:17:05Z"
+    },
+    "4": {
+      "id": "4",
+      "title": "Write a haiku about devnet",
+      "desc": "Post one haiku in the demo thread",
+      "bounty_lamports": 50000000,
+      "assignee": null,
+      "ttl_seconds": 86400,
+      "status": "open",
+      "claimed_by": null,
+      "lease_until": null,
+      "result": null,
+      "payment": null,
+      "posted_by": "BJna6e6BRdQ6XALWhkYmKgn9egRrF4PYXW7QUH1ruTTQ",
+      "posted_at": "2026-10-02T16:30:33Z"
+    },
+    "5": {
+      "id": "5",
+      "title": "Sketch the logo for v2",
+      "desc": "Draw a rough logo concept",
+      "bounty_lamports": 120000000,
+      "assignee": "AgentBob1111111111111111111111111111111111",
+      "ttl_seconds": 86400,
+      "status": "open",
+      "claimed_by": null,
+      "lease_until": null,
+      "result": null,
+      "payment": null,
+      "posted_by": "BJna6e6BRdQ6XALWhkYmKgn9egRrF4PYXW7QUH1ruTTQ",
+      "posted_at": "2026-10-02T16:30:35Z"
+    }
+  },
+  "next_id": 6
+}

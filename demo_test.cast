@@ -1,0 +1,6 @@
+{"version":3,"term":{"cols":80,"rows":24},"timestamp":1790929058,"command":"/bin/bash -c '/tmp/solvenv/bin/python devpay.py board && /tmp/solvenv/bin/python devpay.py journal --last 6 && /tmp/solvenv/bin/python devpay.py export-html && echo DEVPAY-DEMO-OK'","env":{"SHELL":"/bin/zsh"}}
+[0.067, "o", "[    done] #1 0.0500 SOL | Write a haiku about devnet | lease -> 2026-10-02T08:38:44Z\r\n[    open] #2 0.1200 SOL | Sketch the logo for v2\r\n"]
+[0.038, "o", "2026-10-02T07:38:12Z     init {\"by\": \"BJna6e6BRdQ6XALWhkYmKgn9egRrF4PYXW7QUH1ruTTQ\"}\r\n2026-10-02T07:38:12Z   posted {\"job\": \"1\", \"title\": \"Write a haiku about devnet\", \"bounty_lamports\": 50000000}\r\n2026-10-02T07:38:12Z   posted {\"job\": \"2\", \"title\": \"Sketch the logo for v2\", \"bounty_lamports\": 120000000}\r\n2026-10-02T07:38:44Z  claimed {\"job\": \"1\", \"agent\": \"AgentAlice1111111111111111111111111111111111\", \"lease_until\": \"2026-10-02T08:38:44Z\"}\r\n2026-10-02T07:38:44Z     done {\"job\": \"1\", \"agent\": \"AgentAlice1111111111111111111111111111111111\", \"result\": \"haiku: lamports fall like rai\r\n"]
+[0.037, "o", "board page -> index.html (serve via GitHub Pages for a live MVP link)\r\n"]
+[0.003, "o", "DEVPAY-DEMO-OK\r\n"]
+[0.001, "x", "0"]
